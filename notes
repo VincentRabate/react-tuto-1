@@ -1,0 +1,12 @@
+___Installer
+Dans le terminal
+
+npm i -g pnpm
+(installer pnpm dans tout l'ordi (-g))
+
+pnpm create vite
+
+___Lancer
+cd tuto-react1
+  pnpm install
+  pnpm run dev
